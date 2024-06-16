@@ -40,16 +40,14 @@ $ python main.py
 
 A new student can be registered by entering his/her full name and capturing or uploading 10-20 face images of the student. There are two options to enter student face images. The first approach is by capturing a student’s face using a webcam. As the webcam captures a video stream and sends it to the desktop app, face detection utility widgets will detect faces and draw their bounding box with their prediction confidence in the detected face image. After that, a user can save the image which contains the face image with higher or sufficient prediction confidence.
 
-![register student](./assets/images/register_Student.png)
 
-### Take Attendance
 
 To take student attendance we will apply face recognition using a face recognition module and face recognition widgets. The face recognition widget is connected to the take attendance page with signal and slot. So a face recognition system will be applied to each frame from the video stream or uploaded video. The webcam and face recognition system will run for about 5 minutes, and after that, it will stop recording and display the student name which is not detected in the video stream for cross-checking purposes.
 
-![take attendance](./assets/images/take_attendance.png)
+
 
 ### View Attendance
 
 A teacher can also view students’ attendance results in table format. The table contains lists of the student names and corresponding student attendance percentages. The table rows are colored with different colors based on how much the student attends class. for example, if a student attends class less than 80% the row with the student’s name will be colored red(danger).
 
-![view attendance](./assets/images/view_attendance.png)
+
