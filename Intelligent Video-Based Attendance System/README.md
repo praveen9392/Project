@@ -1,4 +1,4 @@
-# Classroom attendance system using face-recognition
+# INTELLIGENT VIDEO BASED ATTENDANCE SYSTEM
 
 ## Table of contents
 
@@ -9,7 +9,7 @@
 
 ## Introduction
 
-An automatic classroom attendance system is a system that is used to automate the manual attendance marking method. The manual attendance marking method is a repetitive, time-consuming, tedious task in many schools and colleges. So by automating this traditional method, we can save more time for the actu al lecture, increase the productivity of teachers, increase students punctuality, and also generate attendance reports and its analysis result easily. An automated attendance system can be implemented using various techniques of biometrics. Face recognition is one of them which does not involve human intervention and it has been widely used in many other applications. Face recognition is a method of identifying or verifying the identity of an individual using their face. The system or desktop appI built performs nearly 100 at recognizing faces. It can successfully recognize faces at different face orientation, distance and light conditions. but It sometimes fails to recognize faces in low light conditions. in spite of that the app can work great in classrooms which have sufficient lighting conditions or day-time.
+An Intelligent video based attendance system is a system that is used to automate the manual attendance marking method. The manual attendance marking method is a repetitive, time-consuming, tedious task in many schools and colleges. So by automating this traditional method, we can save more time for the actu al lecture, increase the productivity of teachers, increase students punctuality, and also generate attendance reports and its analysis result easily. An automated attendance system can be implemented using various techniques of biometrics. Face recognition is one of them which does not involve human intervention and it has been widely used in many other applications. Face recognition is a method of identifying or verifying the identity of an individual using their face. The system or desktop appI built performs nearly 100 at recognizing faces. It can successfully recognize faces at different face orientation, distance and light conditions. but It sometimes fails to recognize faces in low light conditions. in spite of that the app can work great in classrooms which have sufficient lighting conditions or day-time.
 
 ## Technologies
 
